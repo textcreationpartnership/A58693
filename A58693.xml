@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties gracious proclamation for ordering the prosecution of all rebels and their ressetters for holding justice-airs, and admitting rebels not heretors to take the tests, &amp;c.</title>
+            <author>Scotland. Sovereign (1649-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58693</idno>
+            <idno type="STC">Wing S1505</idno>
+            <idno type="STC">ESTC R14119</idno>
+            <idno type="EEBO-CITATION">13674370</idno>
+            <idno type="OCLC">ocm 13674370</idno>
+            <idno type="VID">101215</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58693)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101215)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1047:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties gracious proclamation for ordering the prosecution of all rebels and their ressetters for holding justice-airs, and admitting rebels not heretors to take the tests, &amp;c.</title>
+                  <author>Scotland. Sovereign (1649-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at Edinburgh by the heir of Andrew Anderson ... and re-printed at London by John Darby ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:101215:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <head>C2 R</head>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>English royal blazon surmounted by a crown and flanked by the English lion and Scottish unicorn</figDesc>
+               </figure>
+            </head>
+            <head>His Majeſties Gracious Proclamation, for Ordering the Proſecution of all Rebels and their Reſſetters, for holding Juſtice-airs, and admitting Rebels not Heretors, to take the Teſt, &amp;c.</head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">C</seg>HARLES by the Grace God, King of <hi>Great-Britain, France,</hi> and <hi>Ireland,</hi> Defender of the Faith:</signed>
+               <salute>To Our Lyon King at Arms, and his Brethren Heraulds, Macers, Purſevants, and Meſſengers at Arms, our Sheriffs in that part, conjunctly, and ſeverally, ſpecially Conſtitute Greeting:</salute>
+            </opener>
+            <p>Foraſmuch, as We by our Gracious Letter, under Our Royal Hand, directed to our Privy Council, Dated at Our Court at <hi>New-Mercat,</hi> the twentie firſt day of <hi>March</hi> laſt, did ſignify how well We were ſatisfied with the Account We had lately received of the State of Affairs in this Our Ancient Kingdom, and with the ſucceſsful Me<g ref="char:EOLhyphen"/>thods Our Council had fallen upon, for ſettling the Peace therein, and reducing People to Order and Conformity; and in this Exigence, did think ſit it ſhould be made known to Our People by Proclamation, that though We have been too often induced to grant Indempnities and Indulgences, and other Favours, to that Phanatick and diſaffected Party, which (as Time and Experience have ſhowen) had no other Effects then to encourage them to further Diſorders, and embolden them to abuſe Our Royal Goodneſs, whatever fair hopes were given Us at the procuring of them; yet it was ſtill, and is now more then ever Our Royal Inclination, and firm Reſolution, to extirpate and root out theſe Seditious and Rebellious Principles, and to maintain the Church-Government as it is Eſtabliſhed by Law: And ſeeing We are now fully perſwaded, that it is neither difference in Religion, nor tenderneſs of Conſcience (as is pretended) but meerly Principles of Diſloyalty, and Diſaffection to Us and Our Government, that moves there (under pretext of Religion) to diſturb the Quiet of Our Reign, and Peace of this Our Ancient Kingdom: Therefore We do ſtrictly Require Our Privy Council, and all Our Judges and Magiſtrates, to put the Laws vigorouſly in Execution againſt all Perſons, who, ſince Our late Indempnity, have been, or ſhall be hereafter, found guilty of any Phanatical Diſorders or Irregularities, (eſpecially thoſe who continue obſtinate in them.) And ſeeing We are informed, that ſeveral of Our Subjects are ſo Diſloyal to Us, and Inhumane to their Country, as to harbour, reſſet and entertain the Diſturbers of its Peace, open and declared notour Rebels and Traitors: We do therefore likewiſe Command, that all ſuch Perſons as are, or ſhall be found guilty of Reſſetting, Maintaining, Harbouring, Intercommuning, Converſing with, or doing Favours to Perſons who are Forefaulted, Traitors, or denounced and regiſtrat at the Horn for Rebellion, be purſued before Our Juſtice Court, and puniſhed as Traitors according to Law. And though all perſons guilty of Reſetting, Maintaining, Harbouring, Intercommuning, Converſing with, or doing Favours to notour and known Rebels, that have actually been in the Rebellion, (albeit neither Forefaulted as Traitors, nor Denunced and Regiſtrat at the Horn for Rebellion) may be alſo puniſhed with the pains of Treaſon. Yet leſt any of our Subjects may have fallen unhappily into that Miſtake, becauſe of the great number of Rebels that for ſeveral Years have haunted and frequented ſome parts of our Weſtern and Southern Shires, We in Our Royal Prudence and Clemency, Recommend to Authorize and Impower Our Privy Council, that as they ſhall ſee cauſe, they may give Warrand to, and command Our Advocate to cauſe Summon and Cite before them, ſuch Perſons as they have reaſon to ſuſpect, to be guilty of the Crimes of Reſſetting, Maintaining, Harbouring, Intercommuning, Converſing with, or doing Favours to any notour or known Rebels, that have been actually in the Rebellion; and which Rebels have not been Forefaulted as Traitors, or Denunced and Regiſtrat at the Horn for Rebellion, before the time thoſe Perſons Reſſetted, Harboured, Maintained, or Intercommuned, Converſed with, or did them Favour: As alſo all Perſons guilty of Intercommuning, or Converſing (even with Forefaulted Rebels, or Denunced or Regiſtrat at the Horn) occaſioned by chance and accident; And We do Authorize and Impower Our Privy Council to judge them upon Pro<g ref="char:EOLhyphen"/>bation of Witneſſes, or Oath of Party, as they ſhall ſee moſt convenient for Our Service; and in caſe they refuſe to Depone, or to appear when cited perſonally, or at their Dwelling-Houſes, or at the Mercat Croſs of <hi>Edinburgh, Peer</hi> and Shoar of <hi>Leith,</hi> if out of the Kingdom, to hold them as confeſt, and to reſtrict the ordinary pains of Treaſon, to Baniſhment, Fining, or other Arbitrary Puniſhment. Likeas, We do hereby Declare, that ſuch Perſons ſo judged by our Privy Council, ſhall upon Abſolvitor, or ſatisfying of the Sentence, be as fully Secured and Indemnified, as to theſe Crimes, for which they ſhall be ſo judged by them, as if they had a particular Remiſſion for each of theſe Crimes, under Our Great Seal: And being alſo perſwaded that Our Privy Council will uſe all Diligence, to bring to condign Puniſhment, ſuch who deſerve the ſame, and deſirous to ſecure Our Subjects; We do declare, that after the ſpace of three Years, from the firſt of <hi>January</hi> 1684, no new Proceſs ſhall be raiſed, nor any Perſon purſued (ſave only ſuch as have been Cited within the foreſaid time, upon the Head of Reſſetting, Maintaining, Harbouring, Intercommuning, Converſing with, or doing favours to Forefaulted Rebels, or others, Acted, done, or committed at any time preceding the firſt of <hi>May,</hi> 1683. We do alſo likewiſe give to Our Privy Council full Power and Authority, when they ſhall find it neceſſary for Our Service, to Commiſſionat ſuch as they ſhall think fit in the reſpective Shires, for Judging thoſe they have not time or conveniency to call before themſelves, and are guilty of Reſſetting, Maintaining, Harbouring, Intercommuning, Converſing with, or doing favours to Perſons who are notour, and known Re<g ref="char:EOLhyphen"/>bels, and who have been actually in the late Rebellion, though not Forefaulted, nor Denunced and Regiſtrat at the Horn for Rebellion: As alſo, all Perſons guilty of Intercommuning, or Converſing, even with Forefaulted Rebels, or Denunced, and Regiſtrat at the Horn, occaſioned by chance and accident, and that in the ſame way, and with the ſame Powers that We have have hereby allowed to Our Council. And becauſe ſeveral of Our Commons that were engaged in the late Rebellion, may have (through Ignorance) loſt the benefit of Our Indemnity, by not taking the Bond in due time, and are yet deſirous to return to their Duty: We do declare, that all ſuch who ſhall take the <hi>Teſt,</hi> before Our Privy Council, or Our Juſticiary, or any Commiſſionated by the Council, any time betwixt this and the firſt of <hi>Auguſt</hi> next, ſhall, and are hereby declared to be as ſufficiently Indemnified, as they would have been, if they had taken the <hi>Bond</hi> in due time. And for that effect, and for puniſhing ſuch as refuſe, thus to be Reclaimed. We do hereby alſo Order, That Circuit Courts be holden in Our Weſtern and Southern Shires, and other places needful in the Months of <hi>May, June, July,</hi> or <hi>Auguſt</hi> next; and that after Our Council hath cauſed take up exact porteous Rolls of all ſuch who are guilty of, or acceſſary to the late Rebellion, that have not the benefit of Our general Indempnity, or ſpecial Remiſſions, or are otherways cleared and acquitted by Law, their Names, after they ſhall be Denunced Fugitives, be Printed, Publiſhed, affixed upon all the Mercat Croſſes within this Kingdom, to the end all our dutiful Subjects may know, both whom to ſhun, and whom to apprehend. After all which Declarations of Our Royal Pleaſure, We expect that none will dare to adventure to commit any of the fore<g ref="char:EOLhyphen"/>ſaid Crimes, being fully reſolved, not to ſhew further Favour or Clemency, to any who hereafter ſhall be found guilty thereof. Our Will is therefore, and We Charge you ſtrictly and Command, that incontinent, theſe Our Letters ſeen, ye paſſe to the Mercat Croſſe of <hi>Edinburgh,</hi> and to the whole Mercat Croſſes of the head Burghs of the Shires and Regalities of this Kingdom, and other places needful, and thereat, by open Proclamation, make publication of the Premiſſes, to the effect all Perſons concerned may give Obedience, and conform themſelves to Our Royal Pleaſure aforeſaid. And furder, in Proſecution of the Ends and Deſigns foreſaids; We, with Advice of Our Privy Council, have thought ſit hereby to Ordain and appoint Our Circuit Courts of Judiciary, to be holden and keeped by the Commiſſioners and Judges thereof, at the Place and Burghs, and upon the days, and for the Shires reſpective after-ſpecified, <hi>viz.</hi> at the Town of <hi>Strivling</hi> the fifth of <hi>June</hi> next, for the Shires of <hi>Strivling, Clackmannan, Kinroſs, Fife,</hi> and <hi>Pearth,</hi> beſouth the River of <hi>Ern,</hi> and the <hi>Steuartry</hi> of <hi>Monteith:</hi> at the Town of <hi>Glaſgow</hi> the twelfth day of the ſaid Month, for the Shires of <hi>Lanerk, Renfrew</hi> and <hi>Dum<g ref="char:EOLhyphen"/>bartoun:</hi> at the Town of <hi>Air</hi> the ninteenth day of the ſaid Month, for the Shire of <hi>Air,</hi> and Juriſdiction within the ſame, and the Shire of <hi>Wigtown:</hi> at the Town of <hi>Dumfreis</hi> the twentie firſt day of the ſaid Month, for the Shires of <hi>Dumfreis,</hi> the <hi>Steuartries</hi> of <hi>Kirkoudburgh</hi> and <hi>Annadale:</hi> at the Town of <hi>Jedburgh,</hi> the third day of <hi>July</hi> for the Shires of <hi>Roxburgh, Berwick, Selkirk, Peebles,</hi> and <hi>Bailliries</hi> of <hi>Lauderdail:</hi> At the Town of <hi>Edinburgh</hi> the tenth day of <hi>July,</hi> for the Shires of <hi>Edinburgh, Haddingtoun</hi> and <hi>Linlithgow.</hi> Whereof We Ordain you to make Publication at the Mercat Croſs of <hi>Edinburgh,</hi> as alſo at the Mercat Croſſes of the head Burghs of the Sheriffdoms of <hi>Strivling, Clackmannan, Kinroſs, Fife, Pearth, Lanerk, Renfrew, Dumbarton, Air, Wigtoun, Dumfreis, Jedburg, Selkirk, Peebles, Dunſe, Lauder, Haddingtoun,</hi> and <hi>Linlithgow,</hi> where-through none pretend ignorance of the ſame; that the ſaids Juſtice Courts are to be holden upon the days, and at the Burghs and places reſpective above<g ref="char:EOLhyphen"/>written; And that ye Command and Charge, all Arch-biſhops, Dukes, Marqueſſes, Earls, Biſhops, Lords Spiritual and Temporal, Barons, and others. Our Free-holders, who hold Lands of Us in Chief, and oweth Sute and Preſence within the ſeveral Bounds, Shires and Precincts, belonging to the ſaids reſpective Circuit Courts, to compear before the ſaids Commiſſioners at the ſaids Courts, upon, and at the days and places foreſaids, with continuation of days, to do whatever in Law is Incumbent, and ought to be done by them in that behalf. As alſo, that ye Command and Charge all and ſundry the ſaids Dukes, Marqueſſes, Earls, Lords Spiritual and Temporal: As alſo, Lords of Regalities, Steuarts, Barons, Sheriffs, Juſtices of the Peace, Baillies, Chamberlands, Magiſtrats and Miniſters of Our Laws, and all Subordinat Judges within our Sheriffdoms above-written, and whole Leidges of the ſame, that they, and every one of them give all due Reſpect to Our Commiſſioners, and Juſtices foreſaids, and ſuch ſpecial Aſſiſtance, as to their Offices and Duties appertains, and as is Incumbent to them by the Laws and Acts of Parliament of this Kingdom, as oſt as they ſhall be required by Our Commiſſioners, to that effect, as they and every one of them will anſwer upon the contrary, and under all higheſt Pain and Charge that after may follow; and particularly, that ye Command Our Sheriffs, that they cauſe ſufficient and legal Men compear before Our ſaids Commiſſioners, at ſuch Diets and Places as the Commiſſioners ſhall appoint for Aſſizes and Witneſſes, as they ſhall be Cited to that effect: As alſo, that the ſaids Sheriffs and Free-holders within the ſeveral Shires foreſaids, meet Our ſaids Juſtices at their Entry into the Shire, and convey them into the ſame, and accompany them during their remaining, ay and while they be received by Our next Sheriff, and his Deputs into the next Shire. And becauſe there has been ſeveral great Abuſes committed in Taking and Adminiſtring the late Bond, appointed by Our late Indempnities, and the Perſons intruſted have been frequently impoſed upon, by their being induced to admit Perſons to take the ſaid Bond under falſe Names and Deſignations, and that even many falſe Subſcriptions have been returned through the Colluſion of ſuch as were Illegally ſubſtitute by the Perſons Intruſted: Therefore We Ordain, that all theſe Commons who ſhall apply themſelves for having the benefit of the <hi>Teſt,</hi> ſhall take the ſame, repeating the words upon their Knees, in preſence of any two of the Perſons after-mentioned, and a Clerk, who are appointed to return the <hi>Teſt</hi> ſo Subſcribed, to the Clerks of Our Privy Council, betwixt and the firſt of <hi>September</hi> next, with Certiſicat at the end thereof, Subſcribed by any one of the ſaid two Perſons, or more preſent Intruſted, and their Clerk bearing the time and place when they did ſign the ſame, and that they knew the Perſons Subſcribing, to be of the Deſignations condeſcended upon, or were credibly informed by Perſons they knew, that they were ſuch; and where the Perſons could not Subſcribe themſelves, that they heard them give Direction to two Nottars, to Subſcribe for them: And which <hi>Teſt</hi> ſo Sub<g ref="char:EOLhyphen"/>ſcribed, and returned, and a Certificat granted thereupon, ſhall be as ſufficient to the Subſcribers, as if they had Our particular Act of Indemnity. The Perſons intruſted by Us, are all Privy Counſellours, Lords of the Seſſion and Juſticiary, Captains of Our Forces, and ſuperiour Officers upon the place, Sheriffs, Steuarts and Baillies of Regalitics, or their Deputs in their reſpective Juriſdictions, or Provoſts of Burghs Royal, or the Baillies: As alſo, the particular Perſons under-written, <hi>viz. John Dalmahoy</hi> of that Ilk, Sir <hi>John Couper</hi> of <hi>Gogar,</hi> the Lord <hi>Elebank, William Murray</hi> of <hi>Spot,</hi> Sir <hi>William Ruthven</hi> of Dunglaſs, <hi>Adam Hepburn</hi> of <hi>Humby, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Sharp</hi> of <hi>Houſtoun, Alexander Miln</hi> of <hi>Carrin,</hi> the Lord <hi>Sinclar,</hi> Sir <hi>Philip Anſtruther</hi> of that Ilk, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Lindſay</hi> Commiſſar of St. <hi>Andrews,</hi> Sir <hi>William Sharp</hi> of <hi>Scotſcraig,</hi> Sir <hi>Alexander Bruce</hi> of <hi>Broomhall,</hi> the Lord of <hi>Lie,</hi> Sir <hi>John Whiteford</hi> of <hi>Milntoun, John Skeen</hi> of <hi>Hallyards</hi> in <hi>Lothian,</hi> Sir <hi>Robert Dalȝel</hi> of <hi>Glannae,</hi> Sir <hi>Robert Grierſon</hi> of <hi>Lagg, Robert Ferguſon</hi> of <hi>Craigdarrach,</hi> the Lord <hi>Montgomery,</hi> the Lord <hi>Crightoun,</hi> the Laird of <hi>Blair,</hi> Sir <hi>Archibald Kennedy</hi> of <hi>Collen, John Boil</hi> of <hi>Kelburn, James Crawfoord</hi> of <hi>Ardmillan, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Colquhoun</hi> of <hi>Luſs, John Grahame</hi> of <hi>Dugalſtoun,</hi> the Lord <hi>Roſs, Thomas Crawfoord</hi> of <hi>Carsburn, Richard Elphingſtoun</hi> of <hi>Airth, Patrick Haddin</hi> of <hi>Langrig, Alexander Seten</hi> of <hi>Touch, Mungo Haddin</hi> of <hi>Glennages,</hi> Sir <hi>Robert Murray</hi> of <hi>Abercairney,</hi> Sir <hi>John Drummond</hi> of <hi>Machany, John Drummond</hi> of <hi>Deinſtoun, Andrew</hi> Lord <hi>Rollo,</hi> Sir <hi>David Dumbar</hi> of <hi>Baldoon, Hugh Moguffolk</hi> of <hi>Ruſco,</hi> Sir <hi>Godfrey Meceulloch</hi> of <hi>Miretoun, Robert Lourie</hi> of <hi>Maxweltoun, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Ker</hi> of <hi>Gradine,</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Lord <hi>Jedburgh, John Riddel</hi> of <hi>Haining, George Pringle</hi> of <hi>Blindies,</hi> Sir <hi>James Cockburn</hi> of that Ilk, <hi>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Hoom</hi> of <hi>Linthil,</hi> Mr. <hi>Harie Hoom</hi> of <hi>Kames,</hi> Sir <hi>William Purvos</hi> of <hi>Purviſhall,</hi> Sir <hi>William Murry</hi> of <hi>Stenhop, James Naeſmith</hi> of <hi>Poſſo, John Veatch</hi> of <hi>Daick, Alexander Cochran</hi> of <hi>Barbachly, John Dundaſs</hi> of <hi>Mannor, John Skeen</hi> of <hi>Halyards</hi> in <hi>Fife,</hi> Sir <hi>Robert Maxwel</hi> of <hi>Orchyardtoun, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Bruce</hi> of <hi>Earls-hall, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Grahame</hi> Cornet, and Mr. <hi>David Grahame</hi> Quartermaſter to the Laird of <hi>Claver-houſe</hi> his Troop, Sir <hi>Francis Ruthven,</hi> Lieutenant to the Laird of <hi>Meldrum,</hi> Sir <hi>William Keith</hi> of <hi>Ludaquharn</hi> his Cornet, and Sir <hi>James Douglaſs</hi> of <hi>Kelhead.</hi> And to the Effect, that the Perſons allowed to take the <hi>Teſt,</hi> may have convenient Opportunities for taking the ſame, We do Require the Perſons foreſaids, appointed for Adminiſtring the <hi>Teſt,</hi> to meet amongſt themſelves, and condeſcend upon frequent Dyets and Meetings, at convenient places, and that they cauſe make timeous and publick Intimation thereof at Paroch Kirks, and other places needful, that all Perſons concerned may know when and where to attend; and if any of the Perſons Commiſſionat to Adminiſtrat the ſaid <hi>Teſt,</hi> have not taken the ſame themſelves, We appoint them firſt to take it in preſence of ſome of thoſe above-mentioned, who have formerly taken the ſame before they adminiſtrat it to others; The which to do, We commit to you, conjunctly and ſeverally, Our full Power, by theſe Our Letters, delivering them by you, duly executed, and indorſed again to the bearer.</p>
+            <closer>
+               <dateline>Given under Our Signot, at <hi>Edinburgh,</hi> 
+                  <date>the thirteenth day of <hi>April,</hi> One thouſand ſix hundred eighty and three: And of our Reign, the thirtieth fifth Year.</date>
+               </dateline>
+               <signed>Per actum Dominorum Secreti Concilij. <hi>WIL. PATERSON,</hi> Cls. Sti. Concilij.</signed>
+               <lb/> GOD ſave the KING.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
